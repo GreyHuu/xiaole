@@ -56,6 +56,8 @@
       <workItem from="1562215605817" duration="430000" />
       <workItem from="1562310325294" duration="330000" />
       <workItem from="1562415950559" duration="505000" />
+      <workItem from="1562496764772" duration="321000" />
+      <workItem from="1562497157933" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="test 123456">
       <created>1562416023150</created>
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562416023150</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test 123456">
+      <created>1562496956468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562496956468</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
